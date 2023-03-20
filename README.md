@@ -73,22 +73,31 @@ After we run our solution to Deliverable 2, we confirmed that our election_resul
 Using a bulleted list, we addressed the following election outcomes. Use images or examples of our code as support where necessary to answer following questions.
 
 * How many votes were cast in this congressional election?
+
 There were total 369711 vote cast in the congresssional elections.
+ 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 Following is the breakdown of the number of votes and percentage of total votes for each county
 County Votes:
+
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 
 * Which county had the largest number of votes?
+
 Denver had the largest number of votes with 82.8%.
+
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 Following is the breakdown of the number of votes and the percentage of the total votes each candidate received
+
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
+
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 Diana DeGette was the winner who got 272,892 vote with 73.8%.
 
 # Election_Audit Summary
